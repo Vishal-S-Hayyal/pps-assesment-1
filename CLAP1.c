@@ -29,3 +29,10 @@ int main()
 
     return 0;
 }
+//Output
+/*(a == b) && (c > b) is 1 
+(a == b) && (c < b) is 0 
+(a == b) || (c < b) is 1 
+(a != b) || (c < b) is 0 
+!(a != b) is 1 
+!(a == b) is 0*/
